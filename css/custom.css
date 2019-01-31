@@ -165,7 +165,7 @@ header .header-content .header-content-inner p {
 .item-2,
 .item-3 {
 	background-size: cover;
-	background-position: 50% 100%;
+	background-position: 100% 50%;
 	}
 
 .page-footer {
