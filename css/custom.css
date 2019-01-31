@@ -150,15 +150,15 @@ header .header-content .header-content-inner p {
 }
 
 .item-1 {
-	background: url('../images/domain_book.jpg');
+	background: url('/images/domain_book.jpg');
 	}
 
 .item-2 {
-	background: url('../images/websites.jpg');
+	background: url('/images/websites.jpg');
 	}
 
 .item-3 {
-	background: url('../images/academic_literature.jpg');
+	background: url('/images/academic_literature.jpg');
 	}
 
 .item-1,
